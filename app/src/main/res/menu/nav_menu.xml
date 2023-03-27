@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/gangChuFramgent"
+        android:icon="@drawable/baseline_thumb_up_24"
+        android:title="@string/title_gang_chu" />
+    <item android:id="@+id/rouletteFragment"
+        android:icon="@drawable/vector_roulette"
+        android:title="@string/title_roulette" />
+    <item android:id="@+id/reviewFragment"
+        android:icon="@drawable/vector_create"
+        android:title="리뷰쓰기"/>
+    <item android:id="@+id/friendFragment"
+        android:icon="@drawable/vector_person_add"
+        android:title="@string/title_friend" />
+    <item android:id="@+id/myInfoFragment"
+        android:icon="@drawable/vector_person"
+        android:title="@string/title_my_info" />
+</menu>
