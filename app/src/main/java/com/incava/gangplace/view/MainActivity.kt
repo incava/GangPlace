@@ -1,13 +1,12 @@
-package com.incava.gangplace
+package com.incava.gangplace.view
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
-import androidx.navigation.Navigation.findNavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.fragment.findNavController
-import androidx.navigation.ui.NavigationUI
 import androidx.navigation.ui.setupWithNavController
+import com.incava.gangplace.R
 import com.incava.gangplace.databinding.ActivityMainBinding
 
 

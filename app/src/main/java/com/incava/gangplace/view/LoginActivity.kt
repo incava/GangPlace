@@ -1,7 +1,8 @@
-package com.incava.gangplace
+package com.incava.gangplace.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.incava.gangplace.R
 
 class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -7,27 +7,27 @@
 
     <fragment
         android:id="@+id/friendFragment"
-        android:name="com.incava.gangplace.FriendFragment"
+        android:name="com.incava.gangplace.view.FriendFragment"
         android:label="fragment_friend"
         tools:layout="@layout/fragment_friend" />
     <fragment
         android:id="@+id/gangChuFragment"
-        android:name="com.incava.gangplace.GangChuFragment"
+        android:name="com.incava.gangplace.view.GangChuFragment"
         android:label="fragment_gang_chu"
         tools:layout="@layout/fragment_gang_chu" />
     <fragment
         android:id="@+id/rouletteFragment"
-        android:name="com.incava.gangplace.RouletteFragment"
+        android:name="com.incava.gangplace.view.RouletteFragment"
         android:label="fragment_roulette"
         tools:layout="@layout/fragment_roulette" />
     <fragment
         android:id="@+id/myInfoFragment"
-        android:name="com.incava.gangplace.MyInfoFragment"
+        android:name="com.incava.gangplace.view.MyInfoFragment"
         android:label="fragment_my_info"
         tools:layout="@layout/fragment_my_info" />
     <fragment
         android:id="@+id/reviewFragment"
-        android:name="com.incava.gangplace.ReviewFragment"
+        android:name="com.incava.gangplace.view.ReviewFragment"
         android:label="fragment_review"
         tools:layout="@layout/fragment_review" />
 </navigation>
